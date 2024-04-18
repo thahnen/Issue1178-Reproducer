@@ -1,0 +1,6 @@
+# Eclipse output
+**/bin/
+**/target/
+
+# macOS
+**/.DS_Store

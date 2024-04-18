@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Issue-1178-SWTBot
+Bundle-SymbolicName: Issue1178-SWTBot
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.swt,
+ org.eclipse.core.runtime,
+ org.eclipse.ui,
+ org.junit,
+ org.eclipse.swtbot.eclipse.finder
+Automatic-Module-Name: Issue.1178.SWTBot
+Bundle-RequiredExecutionEnvironment: JavaSE-17
